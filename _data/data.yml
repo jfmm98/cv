@@ -31,17 +31,7 @@ sidebar:
 
       - idiom: Inglés
         level: B2
-
-    interests:
-      - item: 
-        link:
-
-      - item: 
-        link:
-
-      - item: 
-        link:
-
+        
 career-profile:
     title: Acerca de mí
     summary: |
@@ -64,15 +54,10 @@ education:
       university: Universidad de Jaén
       time: 2017 - Actualidad
       details: |
-experiences:
-    - role: 
-      time: 
-      company: 
-      details: |
 projects:
     title: Proyectos
     intro: >
-      Los proyectos a los cuales tengo un especial cariño son los siguientes.
+      Los proyectos a los cuales tengo un especial cariño son los siguientes:
     assignments:
       - title: Avaaz
         link: "#hook"
