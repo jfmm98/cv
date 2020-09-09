@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Juan Francisco Molina Martos
@@ -41,14 +41,6 @@ education:
     - degree: Carnet de conducir clase B
       university:
       time:
-      details: |
-    - degree: Educación secundaria obligatoria
-      university: Instituto Fuente de la Peña
-      time: 2010 - 2014
-      details: |
-    - degree: Bachillerato en ciencias de la salud
-      university: Instituto Fuente de la Peña
-      time: 2014 - 2016
       details: |
     - degree: Ingeniería Informática
       university: Universidad de Jaén
