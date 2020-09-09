@@ -37,6 +37,7 @@ career-profile:
     summary: |
       Residente en Jaén, nací en 1998. A lo largo de mi vida, encontré en el ordenador un refugio, surgiendo fruto de ello mi gusto por la informática.
       Actualmente cursaré cuarto de carrera durante el curso 2020/2021, deseoso de seguir aprendiendo.
+      
 education:
     - degree: Carnet de conducir clase B
       university:
@@ -46,6 +47,7 @@ education:
       university: Universidad de Jaén
       time: 2017 - Actualidad
       details: |
+      
 projects:
     title: Proyectos
     intro: >
