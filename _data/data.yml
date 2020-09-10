@@ -66,13 +66,13 @@ skills:
 
     toolset:
       - name: Java
-        level: 50%
+        level: 40%
 
       - name: C++
-        level: 30%
+        level: 25%
 
       - name: HTML5 & CSS
-        level: 20%
+        level: 15%
 
       - name: Javascript & Jquery
         level: 10%
