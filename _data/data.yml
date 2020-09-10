@@ -73,6 +73,9 @@ skills:
 
       - name: HTML5 & CSS
         level: 15%
+        
+      - name: SQL
+        level: 15%
 
       - name: Javascript & Jquery
         level: 10%
