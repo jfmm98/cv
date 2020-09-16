@@ -62,11 +62,11 @@ projects:
       Los proyectos a los cuales tengo un especial cariño son los siguientes.
     assignments:
       - title: Avaaz
-        link: "#hook"
+        link: https://play.google.com/store/apps/details?id=com.desarrollo.juanfra.avaaz&hl=es_419
         tagline: "Aplicación desarrollada en Android Studio para una página web de una ONG."
 
       - title: Web de videoconferencia
-        link: "#"
+        link: https://videoconferencia.xyz/
         tagline: "Web que permite chat, videollamadas, compartir pantalla y ficheros entre diversos usuarios."
 
 skills:
